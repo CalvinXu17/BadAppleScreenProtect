@@ -1,0 +1,9 @@
+F:\C#\BadApple\BadApple\bin\Debug\BadApple.exe.config
+F:\C#\BadApple\BadApple\bin\Debug\BadApple.exe
+F:\C#\BadApple\BadApple\bin\Debug\BadApple.pdb
+F:\C#\BadApple\BadApple\obj\Debug\BadApple.ScreenForm.resources
+F:\C#\BadApple\BadApple\obj\Debug\BadApple.Properties.Resources.resources
+F:\C#\BadApple\BadApple\obj\Debug\BadApple.csproj.GenerateResource.cache
+F:\C#\BadApple\BadApple\obj\Debug\BadApple.csproj.CoreCompileInputs.cache
+F:\C#\BadApple\BadApple\obj\Debug\BadApple.exe
+F:\C#\BadApple\BadApple\obj\Debug\BadApple.pdb
